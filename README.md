@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Atahar Hossain</h1>
 <h3 align="center">Android Developer Transitioning to Backend | Java, Kotlin, Python Enthusiast | Focused on Creating Impactful Software</h3>
 
-- 🔭 I’m currently working on [Babbel language learning mobile application](https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en&hl=en&pli=1)
+- 🔭 I’m currently working on [Babbel Android Application](https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en&hl=en&pli=1)
 
 - 🌱 I’m currently learning **full-stack development with Python (Flask and FastAPI), MongoDB, and JavaScript (React). I'm also exploring Docker and RESTful API design.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shajib07](https://github.com/shajib07)
 
-- 💬 Ask me about **Android, Kotlin,**
+- 💬 Ask me about **Android, Kotlin, Compose, Python, Flask**
 
 - 📫 How to reach me **shajib.ruet07@gmail.com**
 
