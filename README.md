@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shajib07](https://github.com/shajib07)
 
-- 💬 Ask me about **Android, Kotlin, Compose, Python, Flask**
+- 💬 Ask me about **Java, Android, Kotlin, Compose, Python, Flask**
 
 - 📫 How to reach me **shajib.ruet07@gmail.com**
 
